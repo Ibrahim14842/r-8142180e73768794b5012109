@@ -1,0 +1,1 @@
+activity-day:20780 claimed opencv/opencv 1e59ee31bad6
